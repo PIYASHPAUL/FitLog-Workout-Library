@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { Dumbbell } from "lucide-react";
 import { usePlan } from "@/context/PlanContext";
 
 const NAV_LINKS = [
@@ -18,9 +18,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 border-b border-line bg-ink/90 backdrop-blur">
       <div className="container-page flex h-16 items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2 font-display text-lg font-semibold tracking-wide">
-          <span className="flex h-8 w-8 items-center justify-center rounded-md bg-accent text-ink">
-            <Dumbbell size={18} strokeWidth={2.5} />
-          </span>
+          <Image src="/logo.png" alt="" width={28} height={28} className="h-7 w-7" />
           FITLOG
         </Link>
 
