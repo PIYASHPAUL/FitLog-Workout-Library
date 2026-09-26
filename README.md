@@ -59,5 +59,5 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## 📬 Submission
 
-- Live Link:
+- Live Link: https://fit-log-workout-library-phi.vercel.app/
 - GitHub Repository Link: https://github.com/PIYASHPAUL/FitLog-Workout-Library
