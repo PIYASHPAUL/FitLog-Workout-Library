@@ -5,8 +5,7 @@ twelve lifts, drill into detailed instructions and specs for each one, lock
 lifts into **Today's Plan**, save others for later, and track your session
 metrics live — all without needing an account.
 
-**Live Site:** _add your deployed link here_
-**Repository:** https://github.com/ProgrammingHero1/B14-A6-Fit-Log
+
 
 ---
 
@@ -61,4 +60,4 @@ Open [http://localhost:3000](http://localhost:3000).
 ## 📬 Submission
 
 - Live Link:
-- GitHub Repository Link: https://github.com/ProgrammingHero1/B14-A6-Fit-Log
+- GitHub Repository Link: https://github.com/PIYASHPAUL/FitLog-Workout-Library
